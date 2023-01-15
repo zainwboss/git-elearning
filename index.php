@@ -3,7 +3,7 @@
 include("config/main_function.php");
 $secure = "-%eA|y).m0%%1A7";
 $connection = connectDB($secure);
-$add="";
+$add="ssss";
 ?>
 <html lang="en">
 <style>
