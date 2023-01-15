@@ -1,11 +1,12 @@
 <!DOCTYPE html>
+
 <?php
 include("config/main_function.php");
 $secure = "-%eA|y).m0%%1A7";
 $connection = connectDB($secure);
-$add="ssss";
+
 ?>
-<html lang="en">
+
 <style>
     body#kt_body {
         flex-direction: unset;
@@ -221,7 +222,7 @@ $add="ssss";
         }
     }
 </style>
-
+<html lang="en">
 <head>
     <title>Menu</title>
     <meta charset="utf-8" />
@@ -269,7 +270,6 @@ $add="ssss";
         </div>
     </div>
 
-
     <div class="CSSgal">
         <!-- Don't wrap targets in parent -->
         <s id="s1"></s>
@@ -296,11 +296,7 @@ $add="ssss";
 
     </div>
 
-
     <script src="template/assets/plugins/global/plugins.bundle.js"></script>
     <script src="template/assets/js/scripts.bundle.js"></script>
 </body>
-
-
-
-</html></html>
+</html>
